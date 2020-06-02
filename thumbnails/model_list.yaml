@@ -99,7 +99,7 @@ models:
 - OpenRobotics/Swisslog
 - OpenRobotics/SwisslogChargerBox
 - OpenRobotics/SwisslogChargerFence
-- OpenRobotics/table
+- OpenRobotics/Table
 - OpenRobotics/TackleBox
 - OpenRobotics/Textures
 - OpenRobotics/Toilet
