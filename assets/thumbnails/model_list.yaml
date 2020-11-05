@@ -47,6 +47,7 @@ models:
 - OpenRobotics/Gazebo
 - OpenRobotics/HeadphonesRack1
 - OpenRobotics/HeadphonesRack2
+- OpenRobotics/InformationCounter
 - OpenRobotics/InstrumentCart1
 - OpenRobotics/InstrumentCart2
 - OpenRobotics/IVStand
