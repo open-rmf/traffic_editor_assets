@@ -92,6 +92,7 @@ models:
 - OpenRobotics/PotatoChipChair
 - OpenRobotics/RecTable
 - OpenRobotics/RetailKiosk1
+- OpenRobotics/RetailKiosk2
 - OpenRobotics/RobotPlaceholder
 - OpenRobotics/Scrubber
 - OpenRobotics/Scrubs
