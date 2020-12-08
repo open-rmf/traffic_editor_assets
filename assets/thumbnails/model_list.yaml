@@ -36,6 +36,8 @@ models:
 - OpenRobotics/ElderLadyPatient
 - OpenRobotics/ElderMalePatient
 - OpenRobotics/ElectronicsRecycling
+- OpenRobotics/EscalatorEnd
+- OpenRobotics/EscalatorStart
 - OpenRobotics/FemaleVisitor
 - OpenRobotics/FemaleVisitorSit
 - OpenRobotics/FoodCourtBarricade
