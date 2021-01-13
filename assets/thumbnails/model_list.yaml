@@ -129,5 +129,4 @@ models:
 - OpenRobotics/XRayMachine
 - OpenRobotics/XRayMachineSmall
 actor_models:
-- OpenRobotics/actor
 - OpenRobotics/MaleVisitorPhone
